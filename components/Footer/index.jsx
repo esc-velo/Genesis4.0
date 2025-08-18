@@ -4,6 +4,7 @@ import genesisLogo from "./../../public/footer/WHITE TEXT .png";
 import ieeeSBLogo from "./../../public/footer/ieee sb white logo.png";
 import ieeeCSLogo from "./../../public/footer/IEEE CS WHITE LOGO.png";
 import ieeeWIELogo from "./../../public/footer/ieee wie white logo.png";
+import ieeeCISLogo from "./../../public/footer/IEEE CIS WHITE LOGO.png";
 
 const Footer = () => {
   return (
@@ -41,7 +42,7 @@ const Footer = () => {
               className="h-12 w-auto"
             />
             <img
-              src={ieeeCSLogo.src}
+              src={ieeeCISLogo.src}
               alt="IEEE CIS Logo"
               className="h-12 w-auto"
             />
