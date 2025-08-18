@@ -112,7 +112,7 @@ export default function Home() {
               </div>
               <div
                 className="2xl:text-[5rem] 2xl:pt-[20%] xl:text-[4.5rem] lg:text-[4rem] md:text-[3.5rem] sm:text-[3rem] sm:pt-[18%] text-[2rem] pt-[13%] text-white ">
-                4.0
+                5.0
               </div>
             </div>
 
@@ -176,14 +176,14 @@ export default function Home() {
                   className="text-center text-[#F5F0D8] text-3xl lg:text-4xl
                     font-medium leading-[44px]"
                 >
-                  Why participate in Genesis 4.0?
+                  Why participate in Genesis 5.0?
                 </p>
               </div>
               <p
                 className="text-center text-[#D1CAC7] text-lg lg:text-xl
                   font-normal font-['Inter'] leading-[30px]"
               >
-                Genesis 4.0 promises a wonderful experience to the
+                Genesis 5.0 promises a wonderful experience to the
                 participants.
               </p>
             </div>
