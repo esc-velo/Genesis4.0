@@ -40,6 +40,11 @@ const Footer = () => {
               alt="IEEE WIE Logo"
               className="h-12 w-auto"
             />
+            <img
+              src={ieeeCSLogo.src}
+              alt="IEEE CIS Logo"
+              className="h-12 w-auto"
+            />
           </div>
         </div>
 
@@ -47,20 +52,25 @@ const Footer = () => {
 
         <div className="flex flex-col items-center justify-center text-white lg:w-1/3 lg:px-4">
           <ContactInfo
-            name="Rishi Joshi"
-            phone="+91 95699 13103"
+            name="Samaksh Gupta"
+            phone="+91 98713 40076"
             role="(Chairperson-IEEE CS MUJ)"
           />
           <ContactInfo
-            name="Lakshita Agarwal"
-            phone="+91 93129 41940"
+            name="Aditya Rajawat"
+            phone="+91 70273 45159"
             role="(Chairperson-IEEE SB MUJ)"
           />
 
           <ContactInfo
-            name="Ananta Taneja"
-            phone="+91 95909 28296"
+            name="Kashish Kumar"
+            phone="+91 98731 63828"
             role="(Chairperson-IEEE WIE MUJ)"
+          />
+          <ContactInfo
+            name="Anshika Katare"
+            phone="+91 7982553998"
+            role="(Chairperson-IEEE CIS MUJ)"
           />
         </div>
 
@@ -91,6 +101,10 @@ const Footer = () => {
         <InstagramLink
           name="IEEE WIE"
           href="https://www.instagram.com/ieee.wiemuj/?igshid=NjIwNzIyMDk2Mg%3D%3D"
+        />
+        <InstagramLink
+          name="IEEE CIS"
+          href="https://www.instagram.com/ieee.cismuj/"
         />
       </div>
     </div>
