@@ -45,7 +45,7 @@ const Footer = () => {
               <img
                 src={ieeeCISLogo.src}
                 alt="IEEE CIS Logo"
-                className="h-17 w-auto object-contain"
+                className="h-17+ w-auto object-contain"
                 style={{maxWidth: '160px'}}
               />
             </div>
