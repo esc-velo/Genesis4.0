@@ -349,7 +349,7 @@ const CCData = [
     name: "Veer",
     team: "Curations",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/ZnkWFpbWFboweynT_profile_placeholder.png?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aFrTf3fc4bHWirWx_Veer_CIS_CC_25-26.jpg?auto=format,compress",
   },
 
   {
