@@ -81,7 +81,7 @@ const CCData = [
     name: "Vaisakhi Das",
     team: "WebDev",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/aFrTfHfc4bHWirWw_Vaisakhi_CIS_CC_25-26.jpg?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aLKYxmGNHVfTOdji_Vaisakhi_CIS_CC_25-26.jpg?auto=format,compress",
   },
   {
     name: "Drishti Nandwani",
@@ -245,7 +245,7 @@ const CCData = [
     name: "Rahini Raneru",
     team: "Media & Coverage",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/aFrTdHfc4bHWirWr_Rahini_CIS_CC_25-26.jpg?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aLKXFmGNHVfTOdje_Rahini_CIS_CC_25-26.jpg?auto=format,compress",
   },
 
   // Curations Team
@@ -530,7 +530,7 @@ const CCData = [
     name: "Manya Gupta",
     team: "Events",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/ZnkWFpbWFboweynT_profile_placeholder.png?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aLKXFmGNHVfTOdjd_ManyaGupta_CIS_CC_25-26.jpg?auto=format,compress",
   },
   {
     name: "Sanidhya Jaiswal",
@@ -1090,7 +1090,7 @@ const CCData = [
     name: "Amogh Srivastava",
     team: "Flying Squad",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/ZnkWFpbWFboweynT_profile_placeholder.png?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aLKXFWGNHVfTOdjc_Amogh_CIS_CC_25-26.jpg?auto=format,compress",
   },
   // Social Media Team  
   {
@@ -1335,7 +1335,7 @@ const CCData = [
     name: "Rishan Mazumdar",
     team: "Logistics",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/ZnkWFpbWFboweynT_profile_placeholder.png?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aFrTdXfc4bHWirWs_Rishan_CIS_CC_25-26.jpg?auto=format,compress",
   },
   {
     name: "Kanishk Satyajit Das",
@@ -1347,7 +1347,7 @@ const CCData = [
     name: "Yashvi Jangir",
     team: "Logistics",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/ZnkWFpbWFboweynT_profile_placeholder.png?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aFrTgHfc4bHWirWy_Yashvi_CIS_CC_25-26.jpeg?auto=format,compress",
   },
 
   // New Hospitality Team
@@ -1433,13 +1433,13 @@ const CCData = [
     name: "Harsh Raj",
     team: "Hospitality",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/ZnkWFpbWFboweynT_profile_placeholder.png?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aFrTZnfc4bHWirWR_HarshRaj_CIS_CC_25-26.jpeg?auto=format,compress",
   },
   {
     name: "Gauri Arora",
     team: "Hospitality",
     role: "Team Member",
-    profilepic: "https://images.prismic.io/ieeemuj/ZnkWFpbWFboweynT_profile_placeholder.png?auto=format,compress",
+    profilepic: "https://images.prismic.io/ieeemuj/aFrTZHfc4bHWirWM_Gauri_CIS_CC_25-26.jpg?auto=format,compress",
   },
 ];
 
